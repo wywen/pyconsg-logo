@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4268"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 8">
+  <defs
+     id="defs4270">
+    <radialGradient
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4295"
+       xlink:href="#linearGradient2795-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient2795-1">
+      <stop
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop2797-9" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0;"
+         offset="1"
+         id="stop2799-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671-0"
+       id="linearGradient4220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78502614,0,0,0.78502614,617.24743,-205.81885)"
+       x1="-161.29031"
+       y1="831.73785"
+       x2="-72.029335"
+       y2="831.73785" />
+    <linearGradient
+       id="linearGradient4671-0">
+      <stop
+         id="stop4673-4"
+         offset="0"
+         style="stop-color:#ffc836;stop-opacity:1;" />
+      <stop
+         id="stop4675-6"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671-0"
+       id="linearGradient4223"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78502614,0,0,0.78502614,617.24743,-205.81885)"
+       x1="-439.57132"
+       y1="958.76764"
+       x2="-75.145424"
+       y2="958.76764" />
+    <linearGradient
+       id="linearGradient4247">
+      <stop
+         id="stop4249"
+         offset="0"
+         style="stop-color:#ffc836;stop-opacity:1;" />
+      <stop
+         id="stop4251"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient4226"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7862656,0,-0.48388572,1.2251611,212.06256,362.43111)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#5a9fd4;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+      <stop
+         style="stop-color:#306998;stop-opacity:1;"
+         offset="1"
+         id="stop4693" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="566.80128"
+     inkscape:cy="424.50196"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4273">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect6075-1"
+       width="499.99997"
+       height="650"
+       x="128.57141"
+       y="194.50505"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/pycon_patriotic_logo.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4226);fill-opacity:1"
+       d="m 424.08044,387.67604 c -14.57285,0.0459 -28.80531,0.88917 -41.61601,2.3593 -37.73598,4.32384 -47.85176,13.37412 -54.44366,30.06432 l -8.70591,22.04265 85.13914,0 -2.90198,7.3475 -85.13912,0 -26.2426,22.4916 c -1.17423,1.0063 -4.85576,-4.611 -7.92273,-11.9927 2.88049,-7.58 16.4997,-15.1247 15.67802,-22.9333 -1.64336,-15.61732 -11.14505,-22.19732 -15.74178,-24.37722 -9.19343,-4.35978 -41.24333,23.85812 -46.8949,26.32222 -11.30314,4.9283 0.83967,34.408 -6.34427,44.0177 -24.088,7.4512 -31.54652,31.572 -32.46784,54.575 -0.71067,17.1226 8.92372,29.3228 33.66753,29.3228 0,0 25.60963,-0.4689 35.93783,-0.4642 -16.11491,-39.1208 40.2492,-61.8316 65.25291,-62.3322 l 90.93585,0.4433 c 33.36537,-3.0917 49.22802,-19.9034 62.84443,-46.0028 7.79499,-14.9412 -9.02043,-22.6905 -31.09197,-25.3063 -13.97241,-1.654 -15.37008,-45.62361 -29.94294,-45.57767 z m -53.0446,17.72847 c 8.79426,0 14.01766,4.95842 11.60974,11.0551 -2.39941,6.07504 -11.52136,10.9876 -20.31561,10.9876 -8.82584,0 -14.03575,-4.91256 -11.63636,-10.9876 2.40792,-6.09668 11.51641,-11.0551 20.34223,-11.0551 z"
+       id="path1948-0"
+       sodipodi:nodetypes="scsccccscsssccscccccssssss"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/patriotic.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4223);fill-opacity:1;stroke:#c9c9c9;stroke-width:0.78502619;stroke-opacity:1"
+       d="m 490.80049,466.15051 c -14.0294,30.6972 -45.11045,45.356 -71.40491,45.6924 l -85.0399,0 c -23.29387,0 -56.77564,19.0283 -60.90623,35.5583 -7.95753,31.8449 39.9463,48.0112 56.87258,51.9407 24.82411,5.3831 9.35021,32.7105 44.10637,26.3543 23.09916,-4.2157 47.58554,-12.7 54.17744,-29.3902 l 8.7059,-22.0425 -85.03989,0 2.90195,-7.3476 85.0399,0 42.56956,0 c 40.5434,-3.6944 74.08966,-43.9683 75.05554,-70.5645 0.49394,-16.7335 -6.21302,-29.3228 -30.98829,-29.3228 z m -96.50386,122.808 c 8.82581,0 14.03575,4.9125 11.63638,10.9877 -2.40796,6.0967 -11.51647,11.055 -20.34225,11.055 -8.79431,0 -14.01766,-4.9583 -11.60972,-11.055 2.39937,-6.0752 11.52128,-10.9877 20.31559,-10.9877 z"
+       id="path1950-1"
+       sodipodi:nodetypes="ccssccsccccccscsssss"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/patriotic.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4220);fill-opacity:1;stroke:#c9c9c9;stroke-width:0.78502619;stroke-opacity:1"
+       d="m 501.61081,431.88141 3.98667,4.3329 c 3.09081,3.3592 10.49358,6.1865 15.9687,6.1865 l 16.43081,0 c 4.50067,0 10.32727,2.2849 12.78717,4.9584 l 8.54884,9.2912 c 2.43305,2.6443 -0.0124,4.1997 -3.66282,4.9583 -4.37151,0.9083 -9.21387,1.0724 -16.43082,0 -4.79574,-0.7112 -10.19638,-2.1425 -12.78716,-4.9583 l -3.42163,-3.7188 16.43082,0 -1.14055,-1.2395 -16.43081,0 -8.22501,0 c -4.78082,0 -8.38233,-1.978 -12.77669,-4.947 -4.52972,-3.0565 -7.16109,-5.9958 -9.12434,-9.9167 -1.41601,-2.8231 -1.11365,-4.947 3.67327,-4.947 l 6.17355,0 z m 30.89053,23.5294 c -1.70526,0 -2.32421,0.8289 -1.38119,1.8537 0.94637,1.0285 3.09756,1.865 4.80282,1.865 1.69918,0 2.3171,-0.8365 1.37072,-1.865 -0.94301,-1.0248 -3.09318,-1.8537 -4.79235,-1.8537 z"
+       id="path1950-8-73-6"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/patriotic.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.44382025;fill:url(#radialGradient4295);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path1894-6"
+       sodipodi:cx="61.518883"
+       sodipodi:cy="132.28575"
+       sodipodi:rx="48.948284"
+       sodipodi:ry="8.6066771"
+       d="m 110.46717,132.28575 a 48.948284,8.6066771 0 1 1 -97.896571,0 48.948284,8.6066771 0 1 1 97.896571,0 z"
+       transform="matrix(3.0130085,0,0,2.6551762,193.21454,384.6694)"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/pycon_patriotic_logo.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       xml:space="preserve"
+       style="font-size:134.74859619px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none;font-family:Jesaya Free;-inkscape-font-specification:Jesaya Free"
+       x="217.49634"
+       y="324.561"
+       id="text3082"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/pycon_patriotic_logo.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"><tspan
+         sodipodi:role="line"
+         id="tspan3084"
+         x="217.49634"
+         y="324.561">pycon </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:71.52446747px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e597d;fill-opacity:1;stroke:none;font-family:Jesaya Free;-inkscape-font-specification:Jesaya Free"
+       x="175.48926"
+       y="710.15973"
+       id="text3919-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/pycon_patriotic_logo.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"><tspan
+         sodipodi:role="line"
+         id="tspan3921-1"
+         x="175.48926"
+         y="710.15973">singapore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac5261;fill-opacity:0.96078431;stroke:none;font-family:Jesaya Free;-inkscape-font-specification:Jesaya Free"
+       x="456.47656"
+       y="711.10358"
+       id="text4035"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/wongyw/Dropbox/pycon/pycon_patriotic_logo.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"><tspan
+         sodipodi:role="line"
+         id="tspan4037"
+         x="456.47656"
+         y="711.10358">2013</tspan></text>
+  </g>
+</svg>
